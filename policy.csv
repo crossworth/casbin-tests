@@ -1,0 +1,4 @@
+p, "user:1", team, create
+p, "user:2", team, create
+p2, "user:1", "team:2", plan, create
+p3, "user:1", "team:2", "plan:3", tip, create
